@@ -1,0 +1,18 @@
+# 编译中间文件
+*.o
+*.obj
+*.gch
+
+# 运行时生成的数据
+progress.txt
+students.csv
+demo_scores.txt
+demo_scores.dat
+study.log
+
+# 调试器/编辑器临时文件
+*.dSYM/
+.vscode/
+.idea/
+*.swp
+*~
